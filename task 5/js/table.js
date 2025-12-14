@@ -37,13 +37,11 @@ export function createTable(callBotsArr, renderedData) {
     const table_header_cell = document.createElement("th");
     table_header_cell.innerHTML = TABLE_HEADER_VALUES[i];
     table_header_cell.className = "table_header_cell";
-    //data-set
     table_header_cell.dataset.key = TABLE_HEADER_VALUES[i];
 
     table_header_row.appendChild(table_header_cell);
   }
 
-  //create tbody
   const table_body = document.createElement("tbody");
   table.appendChild(table_body);
 

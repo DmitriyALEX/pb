@@ -1,0 +1,51 @@
+export const callBotsArr = [
+  {
+    sessionId: "f4465250-1066-11eb-a1ba-333704aff6af",
+    channelId: "543ea1f0-81d8-11e8-99e2-75a22f922020",
+    companyId: "i14778026796",
+    botName: "moneybox",
+    time: 1602677158,
+    numberBot: 1,
+  },
+  {
+    sessionId: "74e40bf0-0fbd-11eb-8dcc-39ce21e9ded5",
+    channelId: "d79ad580-8432-11e8-8ccb-47a5457db1b2",
+    companyId: "i14778026796",
+    botName: "changecrlim",
+    time: 1602933008,
+    numberBot: 2,
+  },
+  {
+    sessionId: "74e40bf0-0fbd-11eb-8dcc-39ce21e9ded5",
+    channelId: "d79ad580-8432-11e8-8ccb-47a5457db1b2",
+    companyId: "i14778026796",
+    botName: "changecrlim",
+    time: 1602930478,
+    numberBot: 3,
+  },
+  {
+    sessionId: "74e40bf0-0fbd-11eb-8dcc-39ce21e9ded5",
+    channelId: "d79ad580-8432-11e8-8ccb-47a5457db1b2",
+    companyId: "i14778026796",
+
+    botName: "partpaym",
+    time: 1602929458,
+    numberBot: 4,
+  },
+  {
+    sessionId: "eeae0530-1067-11eb-a1ba-333704aff6af",
+    channelId: "70fff320-42d9-11ea-ac8e-33aee523fe76",
+    companyId: "i14778026796",
+    botName: "mainformcurr",
+    time: 1602835558,
+    numberBot: 5,
+  },
+  {
+    sessionId: "eeae0530-1067-11eb-a1ba-333704aff6af",
+    channelId: "70fff320-42d9-11ea-ac8e-33aee523fe76",
+    companyId: "i14778026796",
+    botName: "formcurr",
+    time: 1602835258,
+    numberBot: 6,
+  },
+];

@@ -1,0 +1,19 @@
+.table {
+  border-collapse: collapse;
+  border: 3px solid black;
+}
+
+.table_head {
+  padding: 10px;
+  background-color: rgb(171, 203, 167);
+}
+
+.table_header_cell {
+  border: 3px solid black;
+}
+
+.table_body_cell {
+  text-align: center;
+  padding: 10px;
+  border: 3px solid rgb(147, 145, 145);
+}
